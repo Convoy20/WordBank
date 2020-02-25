@@ -4,7 +4,7 @@ by ProgrammerDan for [DevotedMC](https://www.github.com/DevotedMC), also found o
 
 ## What is it?
 
-A tool for branding and unique imprinting.
+A tool for branding and unique imprinting. Here is a brief tutorial: [imgur album showing it off](https://imgur.com/a/RpxWq)
 
 The premise is simple. 
 
